@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gioco Di Colori</string>
+    <string name="Red">Rosso</string>
+    <string name="Blue">Blu</string>
+    <string name="Green">Verde</string>
+    <string name="Target_color">Colore  Obiettivo</string>
+    <string name="Proposed_color">Colore  Proposta</string>
+    <string name="Score">Punteggio</string>
+    <string name="Your_score_is">Il punteggio è</string>
+    <string name="X_is_y">%1$s  è %2$s</string>
+    <string name="Low">Basso</string>
+    <string name="High">Alto</string>
+    <string name="Very_low">Molto basso</string>
+    <string name="Very_high">Molto alto</string>
+    <string name="New">Nuovo</string>
+    <string name="Tips">Consigli</string>
+    <string name="Close">Chiudere</string>
+</resources>
