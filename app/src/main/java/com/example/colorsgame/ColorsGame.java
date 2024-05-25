@@ -1,7 +1,9 @@
 package com.example.colorsgame;
 
 import android.graphics.Color;
+
 import java.util.Random;
+
 
 public class ColorsGame {
     private int targetBackColor = 0;
